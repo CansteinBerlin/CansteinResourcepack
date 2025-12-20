@@ -1,32 +1,192 @@
 {
+  "a_crandle_in_bethlehem": {
+    "sounds": [
+      "event:songs/a_crandle_in_bethlemheleme"
+    ]
+  },
   "bell": {
     "sounds": [
-      "event:bell/bell-1"
+      "event:songs/bell-1"
     ]
   },
   "einstieg": {
     "sounds": [
-      "event:einstieg/einstieg"
+      "event:songs/einstieg"
     ]
   },
   "oh-du-froehliche": {
     "sounds": [
-      "event:oh-du-froehliche/oh-du-froehliche"
+      "event:songs/oh-du-froehliche"
     ]
   },
   "praise": {
     "sounds": [
-      "event:praise/praise"
+      "event:songs/praise"
     ]
   },
   "waymaker": {
     "sounds": [
-      "event:waymaker/waymaker"
+      "event:songs/waymaker"
     ]
   },
   "zweifel": {
     "sounds": [
-      "event:zweifel/zweifel"
+      "event:songs/zweifel"
+    ]
+  },
+  "freue_dich_welt": {
+    "sounds": [
+      "event:songs/freue_dich_welt"
+    ]
+  },
+  "fuerchte_dich_nicht": {
+    "sounds": [
+      "event:songs/fuerchte_dich_nicht"
+    ]
+  },
+  "immanuel": {
+    "sounds": [
+      "event:songs/immanuel"
+    ]
+  },
+  "jingle_bell_rock": {
+    "sounds": [
+      "event:songs/jingle_bell_rock"
+    ]
+  },
+  "joy_to_the_world": {
+    "sounds": [
+      "event:songs/joy_to_the_worldt"
+    ]
+  },
+  "let_it_snow": {
+    "sounds": [
+      "event:songs/let_it_snow"
+    ]
+  },
+  "manger_throne": {
+    "sounds": [
+      "event:songs/manger_throne"
+    ]
+  },
+  "merry_crsitmas_everyone": {
+    "sounds": [
+      "event:songs/merry_crsitmas_everyone"
+    ]
+  },
+  "angel_1": {
+    "sounds": [
+      "event:w25_angel/angel_1"
+    ]
+  },
+  "angel_2": {
+    "sounds": [
+      "event:w25_angel/angel_2"
+    ]
+  },
+  "angel_3": {
+    "sounds": [
+      "event:w25_angel/angel_3"
+    ]
+  },
+  "angel_4": {
+    "sounds": [
+      "event:w25_angel/angel_4"
+    ]
+  },
+  "angel_5": {
+    "sounds": [
+      "event:w25_angel/angel_5"
+    ]
+  },
+  "angel_6": {
+    "sounds": [
+      "event:w25_angel/angel_6"
+    ]
+  },
+  "angel_7": {
+    "sounds": [
+      "event:w25_angel/angel_7"
+    ]
+  },
+  "angel_8": {
+    "sounds": [
+      "event:w25_angel/angel_8"
+    ]
+  },
+  "angel_9": {
+    "sounds": [
+      "event:w25_angel/angel_9"
+    ]
+  },
+  "angel_10": {
+    "sounds": [
+      "event:w25_angel/angel_10"
+    ]
+  },
+  "angel_11": {
+    "sounds": [
+      "event:w25_angel/angel_11"
+    ]
+  },
+  "angel_12": {
+    "sounds": [
+      "event:w25_angel/angel_12"
+    ]
+  },
+  "angel_13": {
+    "sounds": [
+      "event:w25_angel/angel_13"
+    ]
+  },
+  "angel_14": {
+    "sounds": [
+      "event:w25_angel/angel_14"
+    ]
+  },
+  "angel_15": {
+    "sounds": [
+      "event:w25_angel/angel_15"
+    ]
+  },
+  "angel_16": {
+    "sounds": [
+      "event:w25_angel/angel_16"
+    ]
+  },
+  "angel_17": {
+    "sounds": [
+      "event:w25_angel/angel_17"
+    ]
+  },
+  "angel_18": {
+    "sounds": [
+      "event:w25_angel/angel_18"
+    ]
+  },
+  "angel_19": {
+    "sounds": [
+      "event:w25_angel/angel_19"
+    ]
+  },
+  "angel_20": {
+    "sounds": [
+      "event:w25_angel/angel_20"
+    ]
+  },
+  "angel_21": {
+    "sounds": [
+      "event:w25_angel/angel_21"
+    ]
+  },
+  "angel_22": {
+    "sounds": [
+      "event:w25_angel/angel_22"
+    ]
+  },
+  "angel_23": {
+    "sounds": [
+      "event:w25_angel/angel_23"
     ]
   }
 }
