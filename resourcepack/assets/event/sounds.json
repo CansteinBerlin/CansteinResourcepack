@@ -28,5 +28,20 @@
     "sounds": [
       "event:zweifel/zweifel"
     ]
+  },
+  "der-fels": {
+    "sounds": [
+      "event:halloween/der_fels"
+    ]
+  },
+  "ocean": {
+    "sounds": [
+      "event:halloween/oceans"
+    ]
+  },
+  "segne-dich": {
+    "sounds": [
+      "event:halloween/segne_dich"
+    ]
   }
 }
